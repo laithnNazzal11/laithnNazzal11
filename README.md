@@ -55,21 +55,6 @@
 ![Docker](https://img.shields.io/badge/Docker-333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/Git-333?style=flat&logo=git)
 
----
-
-## 💼 Experience Highlights
-
-### 🚀 BuildX
-**Frontend Engineer**
-- Built a full-featured **SaaS app builder**
-- React, React Native, Redux Adapter, MUI, React Query, React Hook Form
-
-### 📱 Language Learning & Telehealth App
-- AI chat & speech analysis
-- Appointment booking & progress tracking
-- Built with **React Native & Firebase**
-
----
 
 ## 📊 GitHub Stats
 
